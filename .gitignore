@@ -1,0 +1,21 @@
+# 操作系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*.bak
+~$*
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 环境变量
+.env
+
+# 编辑器
+.vscode/
+.idea/
